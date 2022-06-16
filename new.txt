@@ -1,0 +1,5 @@
+First name: Oleg.
+Last name: Golovin.
+Age: 34.
+Pets counter: 2.
+Salary at wish: To Infinity and Beyond! (c)

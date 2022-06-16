@@ -1,0 +1,9 @@
+manual testing
+writing test cases
+writing check lists
+writing bug reports
+GIT fundamentals
+GitBash commands
+mobile testing
+API testing using Postman
+SQL fundamentals
